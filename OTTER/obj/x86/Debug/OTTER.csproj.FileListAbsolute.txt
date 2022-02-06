@@ -1,0 +1,90 @@
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\backgrounds\back.jpg
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\backgrounds\space2.jpg
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\elf.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\fireCracker.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\gift.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\ginger.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\sprites\santa.png
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\OTTER.exe.config
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\OTTER.xml
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\OTTER.exe
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\bin\Debug\OTTER.pdb
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.BGL.resources
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.exe
+W:\oop\v09\Vjezba 09 - rjesenje\OTTER\obj\x86\Debug\OTTER.pdb
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\fireCracker.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\gift.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\ginger.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\santa.png
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+W:\oop\v09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+W:\oop\v09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\fireCracker.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\gift.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\ginger.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\santa.png
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+F:\_akG_1718\OOP\Vježba09\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\OTTER.xml
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\OTTER.exe
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\OTTER.pdb
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\tiger.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\tiger_turret.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\backgrounds\background.jpg
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\backgrounds\desert.jpg
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\enemy_turret.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\player.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\player2.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\player2_turret.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\player_turret.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\backgrounds\grass.jpg
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\shot.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\explosion1.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\exit.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\highscores.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\multiplayer.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\singleplayer.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\rules.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\boulder.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\water.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sounds\DeathFlash.wav
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sounds\prologue.wav
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sounds\fire.wav
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sounds\hit.wav
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\shield.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\map.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sprites\tools.png
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sounds\rockHit.wav
+C:\Users\josko\Downloads\ZA PROJEKT\Tank Wars\OTTER\bin\Debug\sounds\itempick.wav

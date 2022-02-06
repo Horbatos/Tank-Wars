@@ -1,0 +1,23 @@
+WELCOME TO TANK WARS
+--------------------------
+-> SINGLEPLAYER
+	In singleplayer you control a tank with the WASD keys and 
+	shoot using the mouse. Enemies are constantly spawning 
+	so be on guard. The longer you stay alive the harder
+	it becomes and the enemy will start sending in the 
+	Tiger tank. WATCH OUT!
+-> MULTIPLAYER
+	Two players fight to the death. Player ONE plays with the
+	 WASD keys and rotates the turret with Q and E keys, and 
+	shoots with SPACE. Player TWO moves with the mouse and
+	automatically aims at the second player, press a mouse 
+	button to shoot. Player TWO is slower than player ONE.
+-> BOULDERS AND LAKES
+	Boulders are good for cover, but they are also a tough 
+	obstacle to navigate. Unlike boulders you can shoot over 
+	lakes.
+-> PICK UPS
+	Pick ups will spawn periodically for the player. Enemy 
+	battle maps will increase your score in Singleplayer. 
+	The wrench will repair you and the Shield will protect 
+	you from one hit (useful against a Tiger).	
